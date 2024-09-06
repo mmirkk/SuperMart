@@ -1,0 +1,14 @@
+C:\Users\mcicchese\source\repos\SuperMart\SuperMart\bin\Debug\net7.0\SuperMart.exe
+C:\Users\mcicchese\source\repos\SuperMart\SuperMart\bin\Debug\net7.0\SuperMart.deps.json
+C:\Users\mcicchese\source\repos\SuperMart\SuperMart\bin\Debug\net7.0\SuperMart.runtimeconfig.json
+C:\Users\mcicchese\source\repos\SuperMart\SuperMart\bin\Debug\net7.0\SuperMart.dll
+C:\Users\mcicchese\source\repos\SuperMart\SuperMart\bin\Debug\net7.0\SuperMart.pdb
+C:\Users\mcicchese\source\repos\SuperMart\SuperMart\obj\Debug\net7.0\SuperMart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcicchese\source\repos\SuperMart\SuperMart\obj\Debug\net7.0\SuperMart.AssemblyInfoInputs.cache
+C:\Users\mcicchese\source\repos\SuperMart\SuperMart\obj\Debug\net7.0\SuperMart.AssemblyInfo.cs
+C:\Users\mcicchese\source\repos\SuperMart\SuperMart\obj\Debug\net7.0\SuperMart.csproj.CoreCompileInputs.cache
+C:\Users\mcicchese\source\repos\SuperMart\SuperMart\obj\Debug\net7.0\SuperMart.dll
+C:\Users\mcicchese\source\repos\SuperMart\SuperMart\obj\Debug\net7.0\refint\SuperMart.dll
+C:\Users\mcicchese\source\repos\SuperMart\SuperMart\obj\Debug\net7.0\SuperMart.pdb
+C:\Users\mcicchese\source\repos\SuperMart\SuperMart\obj\Debug\net7.0\SuperMart.genruntimeconfig.cache
+C:\Users\mcicchese\source\repos\SuperMart\SuperMart\obj\Debug\net7.0\ref\SuperMart.dll
